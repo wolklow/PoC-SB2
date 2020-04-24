@@ -29,4 +29,3 @@ jobs:
         with:
           java-version: 11
       - uses: gradle/wrapper-validation-action@v1
-          arguments: build
