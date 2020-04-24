@@ -1,0 +1,8 @@
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:13000/localdb?autoReconnect=true&tinyInt1isBit=false&useSSL=false
+    username: root
+    password: password
+    driver-class-name: com.mysql.jdbc.Driver
